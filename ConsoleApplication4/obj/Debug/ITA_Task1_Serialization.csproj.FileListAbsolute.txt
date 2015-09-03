@@ -1,0 +1,6 @@
+D:\Documents\GitHub\ITA-Task-01-Serialization\ConsoleApplication4\bin\Debug\ITA_Task1_Serialization.exe.config
+D:\Documents\GitHub\ITA-Task-01-Serialization\ConsoleApplication4\bin\Debug\ITA_Task1_Serialization.exe
+D:\Documents\GitHub\ITA-Task-01-Serialization\ConsoleApplication4\bin\Debug\ITA_Task1_Serialization.pdb
+D:\Documents\GitHub\ITA-Task-01-Serialization\ConsoleApplication4\obj\Debug\ITA_Task1_Serialization.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\ITA-Task-01-Serialization\ConsoleApplication4\obj\Debug\ITA_Task1_Serialization.exe
+D:\Documents\GitHub\ITA-Task-01-Serialization\ConsoleApplication4\obj\Debug\ITA_Task1_Serialization.pdb

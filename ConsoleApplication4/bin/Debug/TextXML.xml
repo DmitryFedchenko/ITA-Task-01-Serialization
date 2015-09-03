@@ -1,0 +1,7 @@
+<?xml version='1.0'?>
+<TestXml>
+    <Book> Heppy book</Book>
+    <Price> 45</Price>
+    <Text> Some good story</Text>
+    <Name> Anton Verechaga</Name>
+</TestXml>

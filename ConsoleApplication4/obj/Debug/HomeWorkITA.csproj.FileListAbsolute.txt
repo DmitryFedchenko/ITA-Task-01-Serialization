@@ -1,0 +1,10 @@
+D:\My project\Pacmen\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+D:\My project\Pacmen\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\My project\Pacmen\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+D:\My project\Pacmen\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\My project\Pacmen\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\My project\Pacmen\ConsoleApplication4\ConsoleApplication4\obj\Debug\HomeWorkITA.csprojResolveAssemblyReference.cache
+D:\My project\Pacmen\ConsoleApplication4\ConsoleApplication4\bin\Debug\HomeWorkITA.exe.config
+D:\My project\Pacmen\ConsoleApplication4\ConsoleApplication4\bin\Debug\ITA Task 1 S.exe.config
+D:\My project\Pacmen\ConsoleApplication4\ConsoleApplication4\bin\Debug\ITA Task 1 Serialization.exe.config
+D:\My project\Pacmen\ConsoleApplication4\ConsoleApplication4\bin\Debug\ITA_Task1_Serialization.exe.config
